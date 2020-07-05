@@ -1,5 +1,5 @@
 # include<stdio.h>
 main()
 {
-	printf("power of c++ language");
+	printf("power of c++");
 }
