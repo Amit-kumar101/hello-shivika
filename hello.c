@@ -1,5 +1,5 @@
 # include<stdio.h>
 main()
 {
-	printf("hello bhumit Kataria");
+	printf("hello bhumit kumar");
 }
